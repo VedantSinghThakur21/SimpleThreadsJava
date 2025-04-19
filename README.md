@@ -10,6 +10,7 @@ This project demonstrates the working of Java threads using multiple classes tha
 --- 
 
 📂 Project Structure
+```
 Java-Threads-Demo/
 ├── Main.java                   # Main entry point; initializes and starts all threads
 ├── threads/
@@ -17,7 +18,7 @@ Java-Threads-Demo/
 │   ├── PrintCharacters.java    # Thread that prints characters A to E
 │   └── PrintMessage.java       # Thread that prints a message five times
 └── README.md                   # Project documentation
-
+```
 
 ---
 
