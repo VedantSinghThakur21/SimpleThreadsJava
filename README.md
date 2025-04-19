@@ -12,10 +12,14 @@ This project demonstrates the working of Java threads using multiple classes tha
 📂 Project Structure
 Java-Threads-Demo/
 ├── Main.java                   // Starts all threads
+
 ├── threads/
 │   ├── PrintNumbers.java       // Prints numbers from 1 to 5
+
 │   ├── PrintCharacters.java    // Prints characters A to E
+
 │   └── PrintMessage.java       // Prints a message five times
+
 └── README.md                   // Documentation
 
 ---
