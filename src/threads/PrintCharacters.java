@@ -2,6 +2,8 @@ package threads;
 
 // Thread to print characters A to E
 public class PrintCharacters implements Runnable {
+
+    // Override the run() method to define the thread's task
     @Override
     public void run() {
         // Loop through characters from 'A' to 'E'
